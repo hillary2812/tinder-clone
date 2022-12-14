@@ -1,0 +1,26 @@
+.chatScreen_text{
+    margin-left: 3px;
+    background-color: lightgray;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.chatScreen_message{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.chatScreen_timestamp{
+    text-align: center;
+    padding: 20px;
+    color: gray;
+}
+
+.chatScreen_textUser{
+    margin-left: auto;
+    background-color: blue;
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+}
